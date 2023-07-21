@@ -1,3 +1,3 @@
 ## videoStreamingApp-Strapi-Remix
 
-## Just testing out Remix & Strapi
+Just testing out Remix & Strapi
